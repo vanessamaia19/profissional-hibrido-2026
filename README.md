@@ -1,5 +1,10 @@
 # 🤖 O Profissional Híbrido: IA + Inteligência Emocional (2026)
 
+## 🔗 Link de Acesso ao Projeto (NotebookLM)
+👉 **[CLIQUE AQUI PARA ACESSAR O NOTEBOOKLM](https://notebooklm.google.com/notebook/bf890524-b588-4123-9b1d-02f6973d7ee0)**
+
+---
+
 ## 🎯 Sobre o Projeto
 
 Este projeto visa analisar e sintetizar as competências essenciais que definirão o sucesso profissional no cenário de 2026, marcado pela ascensão da Inteligência Artificial (IA). O foco está na **hibridização** de habilidades, onde a proficiência técnica em IA se une à inegociável **Inteligência Emocional (EQ)** e à adaptabilidade, conforme destacado por fontes líderes em pesquisa global.
