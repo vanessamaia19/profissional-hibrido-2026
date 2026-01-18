@@ -1,14 +1,23 @@
 # 🤖 Projeto: O Profissional Híbrido (IA + Inteligência Emocional)
 
-Este projeto foi desenvolvido para o desafio da **Digital Innovation One (DIO)**, utilizando o **Google NotebookLM** como ferramenta de curadoria e análise.
+Este projeto foi desenvolvido para o desafio da **DIO.me**, utilizando o **Google NotebookLM** como ferramenta central de curadoria e análise de dados sobre o futuro do trabalho.
 
-## 🔗 Link de Acesso ao Projeto
-👉 **[CLIQUE AQUI PARA ACESSAR O NOTEBOOKLM](https://notebooklm.google.com/notebook/bf890524-b588-4123-9b1d-02f6973d7ee0)**
+## 🎯 Objetivo
+Demonstrar como a Inteligência Artificial e a Inteligência Emocional podem coexistir para criar profissionais mais produtivos e saudáveis até 2026.
 
-## 🎯 Sobre o Projeto
-O objetivo é demonstrar como a IA pode potencializar a produtividade humana mantendo o foco em competências como Inteligência Emocional e Adaptabilidade para 2026.
+## 🔗 Link do Projeto no NotebookLM
+> **([CLIQUE AQUI PARA ACESSAR O MEU NOTEBOOKLM](https://notebooklm.google.com/notebook/bf890524-b588-4123-9b1d-02f6973d7ee0))** *(Nota: Ao abrir o link, você poderá interagir com as fontes, ver a matriz estratégica e ouvir o podcast gerado pela IA).*
 
-## 📚 Fontes Analisadas
-- Harvard Gazette (Inteligência Emocional)
-- World Economic Forum (Futuro do Trabalho)
-- Microsoft Work Trend Index (IA e Produtividade)
+## 🧠 Conteúdos Analisados
+- **Harvard Gazette:** O papel da Inteligência Emocional no ambiente de trabalho.
+- **World Economic Forum:** Relatórios sobre as profissões em alta para 2026.
+- **Microsoft Work Trend Index:** O impacto da IA na produtividade.
+- **TED Talks:** Discussões sobre saúde mental e Geração Z.
+
+##  Ferramentas Utilizadas
+- **Google NotebookLM:** Para análise e síntese de dados.
+- **ChatGPT:** Para auxílio na engenharia de prompts.
+- **GitHub:** Para documentação e portfólio.
+
+---
+Feito com 💙 para o desafio da Digital Innovation One (DIO).
